@@ -1,4 +1,4 @@
 .env
-myenv/
+myenv/*
 .gitignore
 __pycache__/
